@@ -19,6 +19,6 @@ const joshpls = {
                         java:   "Parent-Teacher Conference App",
                         typescript: "Portfolio Website"
                       },
- upcoming: "I am currently focused on my portfolio website built in react / typescript."
+ todo: "Continued work on website built in react / typescript."
 }
 ```
