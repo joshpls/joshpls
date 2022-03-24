@@ -10,15 +10,14 @@
 
 ```javascript
 const joshpls = {
-  pronouns: "He" | "Him",
   code: [Java, Python, VB.Net, Javascript, Typescript, HTML, CSS, C#],
   tools: [Visual Studio, Android Studio, React, Node, Docker],
   database: ["T-SQL", "PL/SQL", "MySQL"],
   projects: {
-                        python: "Pathfinding Visualizer",
-                        java:   "Parent-Teacher Conference App",
-                        typescript: "Portfolio Website"
-                      },
- todo: "Continued work on website built in react / typescript."
+    python: "Pathfinding Visualizer",
+    java:   "Parent-Teacher Conference App",
+    typescript: "Portfolio Website"
+  },
+  todo: "Continued work on website built in react / typescript."
 }
 ```
