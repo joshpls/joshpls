@@ -1,6 +1,6 @@
 # Hi, I'm Joshua Kindelberger
 <img align='right' src="https://lh3.googleusercontent.com/pw/AM-JKLW9p6zmo0azR3rhHH1fBHJoT5KMoExcv-kbTkg3t8lZQhbaIvra2W4duhBi87x2jrLmWCnl9WNf_p83YtT0aCPUA08Q3Q5F46R81nJH1k2oKGPnqwK34grJZfBjCC2BBJdMY1mX3NDAmolzxTUTMy743w=w717-h955-no?authuser=0" width="230">
-<p><em>Software Developer at <a href="http://www.dor.ga.gov">Georgia Department of Revenue</a>
+<p><em>Software Developer</a>
 </em></p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white<SUBJECT>-<STATUS>-<COLOR>.svg)](https://www.linkedin.com/in/joshua-kindelberger/)
